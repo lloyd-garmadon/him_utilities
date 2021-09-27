@@ -39,4 +39,16 @@
 
 
 
+#define arraysize(x) (sizeof(x) / sizeof(x[0]))  
+
+
+
+#define TRUE  1
+#define FALSE 0
+
+#define ON    1
+#define OFF   0
+
+
+
 #endif /* _HIM_UTILITIES_H_ */
